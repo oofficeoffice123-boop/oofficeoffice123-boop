@@ -72,9 +72,3 @@ A full-stack project management application featuring task tracking, sprint mana
 ### 📈 Contribution Activity
 
 [![Zain's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oofficeoffice123-boop&theme=github-compact&hide_border=true)](https://github.com/oofficeoffice123-boop)
-
-### 💻 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oofficeoffice123-boop&show_icons=true&theme=transparent&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oofficeoffice123-boop&layout=compact&theme=transparent&hide_border=true)
